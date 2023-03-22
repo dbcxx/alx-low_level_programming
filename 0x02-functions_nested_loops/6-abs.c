@@ -1,6 +1,8 @@
 #include "main.h"
 /**
-* print_alphabet_x10 - Prints the alphabet 10 times.
+* print_alphabet_x10 - Prints the alphabet 10 times
+* _abs -comment
+* n -comment
 *
 * Return: Always 0
 */

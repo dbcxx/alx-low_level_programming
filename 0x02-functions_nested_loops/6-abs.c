@@ -1,10 +1,11 @@
 #include "main.h"
 /**
-* print_alphabet_x10 - Prints the alphabet 10 times
-* _abs -comment
-* n -comment
+* _abs - gives the absolute value
+* of an integer.
 *
-* Return: Always 0
+* @n: input number as an integer.
+*
+* Return: absolute value
 */
 int _abs(int n)
 	{

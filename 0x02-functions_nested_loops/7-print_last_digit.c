@@ -1,8 +1,11 @@
 #include "main.h"
 /**
-* print_alphabet_x10 - Prints the alphabet 10 times.
+* print_last_digit - Prints the last digit
+* of a number.
 *
-* Return: Always 0
+* @n: input number as an integer.
+*
+* Return: last digit.
 */
 int print_last_digit(int n)
 {

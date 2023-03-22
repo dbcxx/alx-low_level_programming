@@ -1,8 +1,7 @@
 #include "main.h"
 /**
-* print_alphabet_x10 - Prints the alphabet 10 times.
-*
-* Return: Always 0
+*times_table - that prints the 9 times table
+*Return: Always 0
 */
 void times_table(void)
 {

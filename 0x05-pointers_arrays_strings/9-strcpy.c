@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include" main.h"
+#include "main.h"
 /**
  *_strcpy - update value.
  *@dest: value to be evaluate.
